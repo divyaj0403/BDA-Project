@@ -1,4 +1,3 @@
-# bda_proj
 
 OBJECTIVE
 To develop an efficient Big Data Analytics solution using Hadoop for processing, storing, and analyzing large student admission datasets. The goal is to extract meaningful insights, streamline the data processing
